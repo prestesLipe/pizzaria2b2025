@@ -35,6 +35,8 @@ function App(){
      <Formulario titulo = "E-mail" mensagem = "gamba"/>
      <Formulario titulo = "CPF" mensagem = "porcos"/>
      <Formulario/>
+     <Formulario/>
+     <Formulario/>
     </div>
 
   )
